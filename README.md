@@ -1,4 +1,4 @@
-# NewsApp
+# NewsApp TrendLine
 NewsApp is an Android application that provides users with up-to-date news articles from various categories such as Health, Business, Science, and Technology. This project uses Retrofit for fetching news data from a remote API and Picasso for efficient image loading.
 
 ## Features
